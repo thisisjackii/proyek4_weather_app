@@ -1,16 +1,15 @@
 # proyek4_weather_app
 
-A new Flutter project.
+Muhammad Jalaludin Qurthubi
+221511021
+2A - D-III
 
-## Getting Started
+## Hasil Screenshot
 
-This project is a starting point for a Flutter application.
+Berhasil disimulasikan di mobile dan web browser.
 
-A few resources to get you started if this is your first Flutter project:
+### Screenshot 1
+![image](https://github.com/thisisjackii/proyek4_weather_app/assets/53965124/ba4ed76a-b022-4e1d-b446-f205515a0844)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screenshot 2
+![image](https://github.com/thisisjackii/proyek4_weather_app/assets/53965124/ac600d97-0c2d-47b0-a34d-32ca36887f44)
